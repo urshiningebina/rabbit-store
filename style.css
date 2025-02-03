@@ -1,0 +1,8 @@
+@media (max-width: 720px) {
+    .navbar-brand{
+        display: none;
+    }
+    .profile-container{
+        text-align: center;
+    }
+  }
